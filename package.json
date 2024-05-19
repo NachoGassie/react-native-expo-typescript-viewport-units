@@ -1,0 +1,30 @@
+{
+  "name": "react-native-expo-typescript-viewport-units",
+  "description": "Typescript version of the react-native-expo-viewport-units package",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/NachoGassie/axiosClone"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-native-expo",
+    "typescript"
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "react-native": "^0.74.1",
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  },
+  "peerDependencies": {
+    "react": "*"
+  }
+}
