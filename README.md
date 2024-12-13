@@ -1,4 +1,4 @@
-This is highly bases in the [react-native-expo-viewport-units.](https://www.npmjs.com/package/react-native-expo-viewport-units) I have developed for TypeScript support and code reusability.   
+This is highly based in the [react-native-expo-viewport-units.](https://www.npmjs.com/package/react-native-expo-viewport-units) I have developed for TypeScript support and code reusability.   
 
 The following documentation is based on the original package as well.
 
