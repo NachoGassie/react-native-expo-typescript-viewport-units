@@ -5,7 +5,7 @@ The following documentation is based on the original package as well.
 ## Usage
 
 ```
-import { vw, vh, vmin, vmax } from 'react-native-expo-viewport-units';
+import { vw, vh, vmin, vmax } from 'react-native-expo-typescript-viewport-units';
 ```
 
 ```
